@@ -6,6 +6,6 @@
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,dotnet,ts,js,react,python,mongodb,postgresql,sqlite,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,dotnet,ts,js,react,python,mongodb,postgresql,mysql,firebase" />
   </a>
 </p>
