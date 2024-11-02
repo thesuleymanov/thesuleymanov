@@ -1,7 +1,7 @@
 <p><img align="center" alt="gif" width="1080" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/wall.gif"/></p>
 
 <h1 align="center">
-  :toolbox: Languages, Tools and IDEs :toolbox: 
+  Languages, Tools and IDEs
 </h1>
 <br><br>
 <p align="center">
