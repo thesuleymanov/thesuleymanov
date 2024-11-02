@@ -1,8 +1,4 @@
 <p><img align="center" alt="gif" width="1080" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/wall.gif"/></p>
-
-<h1 align="center">
-  Skills
-</h1>
 <br><br>
 <p align="center">
   <a href="https://skillicons.dev">
