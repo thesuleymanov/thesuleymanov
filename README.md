@@ -4,7 +4,9 @@
 ### Badges:
 
 <p align="center">
-  <img src="https://github.com/suleymanovdev/suleymanovdev/blob/main/github-foundations.png" width="200"/>
+  <a href="https://www.credly.com/badges/0dc7bd5e-e1d4-44fa-8b74-9c08b757acf8">
+    <img src="https://github.com/suleymanovdev/suleymanovdev/blob/main/github-foundations.png" width="200"/>
+  </a>
 </p>
 
 ### Skills:
