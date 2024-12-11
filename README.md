@@ -12,5 +12,5 @@
 ### Skills:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,dotnet,ts,js,react,python,mongodb,postgresql,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,java,dotnet,spring,ts,js,react,python,mongodb,postgresql,mysql,firebase" width="1000"/>
 </p>
