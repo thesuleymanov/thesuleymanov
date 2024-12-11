@@ -1,5 +1,4 @@
 <p><img align="center" alt="gif" width="1080" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/wall.gif"/></p>
-<br><br>
 
 ### Badges:
 
