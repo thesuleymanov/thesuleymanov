@@ -2,7 +2,7 @@
 
 # Hi there, I'm Elvin Suleymanov (sud3v)! 👋
 
-*I am 18 years old and have been passionate about computers since childhood, whichhas led to a deep interest in programming. I am proficient in C# for .NET and ASP, Python, and JavaScript, enabling me to develop programs, websites, APIs, and websolutions. I also have knowledge in frontend development, which helps me understandthe full cycle of web application creation. I am well-versed in Docker, Linux, and Windows, allowing me to set up and manage development environments. My experience with Git, GitHub, and GitLab helps me efficiently manage projects andcollaborate with development teams.*
+*I am 18 years old and have been passionate about computers since childhood, whichhas led to a deep interest in programming. I am proficient in C# for .NET and ASP, Java, Python, and JavaScript, enabling me to develop programs, websites, APIs, and websolutions. I also have knowledge in frontend development, which helps me understandthe full cycle of web application creation. I am well-versed in Docker, Linux, and Windows, allowing me to set up and manage development environments. My experience with Git, GitHub, and GitLab helps me efficiently manage projects andcollaborate with development teams.*
 
 ## About Me
 
