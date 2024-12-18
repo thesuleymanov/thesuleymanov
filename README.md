@@ -25,12 +25,6 @@
   <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,java,dotnet,spring,ts,js,react,python,mongodb,postgresql,mysql,firebase" width="1000"/>
 </p>
 
-## Projects
-
-Here are some of my notable projects:
-
-- **[prometey](https://github.com/suleymanovdev/prometey)** - Hobby project, community website.
-
 ## GitHub Stats
 
 <p align="center">
