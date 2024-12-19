@@ -25,12 +25,6 @@
   <img src="https://skillicons.dev/icons?i=git,linux,docker,azure,cpp,cs,java,dotnet,spring,ts,js,react,python,mongodb,postgresql,mysql,firebase" width="1000"/>
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img align="center" alt="Elvin's Stats" src="https://github-readme-stats.vercel.app/api?username=suleymanovdev&show_icons=true&theme=dark">
-</p>
-
 ---
 
 Thank you for visiting my profile! Have a great day! 😊
