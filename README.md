@@ -1,4 +1,4 @@
-<p><img align="center" alt="gif" width="1080" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/wall.gif"/></p>
+<p><img align="center" alt="gif" width="1080" src="https://github.com/suleymanovdev/suleymanovdev/blob/main/hole.giff"/></p>
 
 # Hi there, I'm Elvin Suleymanov (sud3v)! 👋
 
